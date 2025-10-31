@@ -1,0 +1,18 @@
+{
+  "name": "gonzacars-client",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "axios": "^1.4.0",
+    "dayjs": "^1.11.9"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0",
+    "tailwindcss": "^3.5.0",
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.21"
+  },
+  "scripts": { "dev": "vite", "build": "vite build", "preview": "vite preview" }
+}
